@@ -1,7 +1,7 @@
 {
     "info": {
         "dateCreated": "Thu Dec 15 2022 08:26:32 GMT+0600",
-        "lastModified": 1767262385425,
+        "lastModified": 1767263139268,
         "favourite": false,
         "comment": "",
         "name": "New Scene",
@@ -18,8 +18,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "31YEWYGETL7ZGP0J",
-                        "name": "shape_168",
+                        "id": "MBUV8ECMA2PBIPA9",
+                        "name": "shape_117",
                         "shapeType": 0,
                         "position": [
                             -142.59550795975235,
@@ -124,8 +124,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "CYZQVIQKCPAXSRIU",
-                        "name": "shape_169",
+                        "id": "TVF5ZGJ7XIR7Y6VX",
+                        "name": "shape_118",
                         "shapeType": 0,
                         "position": [
                             -44.99007913225898,
@@ -230,8 +230,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "9VHDAGK53VUUB2FS",
-                        "name": "shape_170",
+                        "id": "LWJCANZP7UWWZHPS",
+                        "name": "shape_119",
                         "shapeType": 0,
                         "position": [
                             -198.56468382482748,
@@ -336,8 +336,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "35N1LWW9YT6KNI6F",
-                        "name": "shape_171",
+                        "id": "SMISZ6E56DAVP5AG",
+                        "name": "shape_120",
                         "shapeType": 0,
                         "position": [
                             -184.58243073840777,
@@ -442,8 +442,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "WLGDOGAWZQ3S73H1",
-                        "name": "shape_172",
+                        "id": "YLV55ZKYSM7W9NDZ",
+                        "name": "shape_121",
                         "shapeType": 0,
                         "position": [
                             -226.97590103161755,
@@ -548,8 +548,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "DZCK2G6QGGEN3FCO",
-                        "name": "shape_173",
+                        "id": "FRTKGH53G4OOR4LZ",
+                        "name": "shape_122",
                         "shapeType": 0,
                         "position": [
                             -212.75252140198796,
@@ -654,8 +654,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "FLFUFIZLZCQVG3AD",
-                        "name": "shape_174",
+                        "id": "6HOXOB1K7VXENKR4",
+                        "name": "shape_123",
                         "shapeType": 0,
                         "position": [
                             -255.0787173896422,
@@ -760,8 +760,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "P5Y0LA3F4PODXUWU",
-                        "name": "shape_175",
+                        "id": "Q6GKHIJHYBJD73VM",
+                        "name": "shape_124",
                         "shapeType": 0,
                         "position": [
                             -241.0964643032225,
@@ -866,8 +866,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "UNWO01ZLS7KV5QWB",
-                        "name": "shape_176",
+                        "id": "AO8LIV0UZ8SJA8BT",
+                        "name": "shape_125",
                         "shapeType": 0,
                         "position": [
                             -141.8314673280126,
@@ -972,8 +972,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "3LI1CN51P16WIBYL",
-                        "name": "shape_177",
+                        "id": "HWQ9QHZAT4ZUJZ10",
+                        "name": "shape_126",
                         "shapeType": 0,
                         "position": [
                             -45.82242513971222,
@@ -1078,8 +1078,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "FF6H3ZPPJNL2EE5U",
-                        "name": "shape_178",
+                        "id": "LQEIZLCEUG31TH7Y",
+                        "name": "shape_127",
                         "shapeType": 0,
                         "position": [
                             -197.97599597519402,
@@ -1184,8 +1184,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "V915P1PVTVQWHDA5",
-                        "name": "shape_179",
+                        "id": "H2S7SJDHK8EWKN7W",
+                        "name": "shape_128",
                         "shapeType": 0,
                         "position": [
                             -183.99374288877428,
@@ -1290,8 +1290,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "E1RU48UBI5AALWZY",
-                        "name": "shape_180",
+                        "id": "8V7DPJMKT3ZOFHV9",
+                        "name": "shape_129",
                         "shapeType": 0,
                         "position": [
                             -226.38721318198404,
@@ -1396,8 +1396,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "SRMWJK4Y14K0B0I8",
-                        "name": "shape_181",
+                        "id": "WYVVCGN6TS24XIF7",
+                        "name": "shape_130",
                         "shapeType": 0,
                         "position": [
                             -212.16383355235442,
@@ -1502,8 +1502,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "3FA52UESSJWGVUCL",
-                        "name": "shape_182",
+                        "id": "KITUO2FLWLPZ15M5",
+                        "name": "shape_131",
                         "shapeType": 0,
                         "position": [
                             -254.49002954000875,
@@ -1608,8 +1608,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "HZZERJLAEVJD837X",
-                        "name": "shape_183",
+                        "id": "DIQ8Y9N8Y43XC0TV",
+                        "name": "shape_132",
                         "shapeType": 0,
                         "position": [
                             -240.50777645358897,
@@ -1714,8 +1714,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "CEJKCBFPWNI3TBK7",
-                        "name": "shape_184",
+                        "id": "DBEV376OV9T313A3",
+                        "name": "shape_133",
                         "shapeType": 0,
                         "position": [
                             -27.05255103705961,
@@ -1820,8 +1820,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "F3QYH9RDZUKEGT56",
-                        "name": "shape_185",
+                        "id": "G1WR7WYF3WQMF7RI",
+                        "name": "shape_134",
                         "shapeType": 0,
                         "position": [
                             -27.56952794349177,
@@ -1926,8 +1926,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "1V90RMAIT5KDZUG0",
-                        "name": "shape_186",
+                        "id": "E2M5LEMIW7RL3R7H",
+                        "name": "shape_135",
                         "shapeType": 0,
                         "position": [
                             -34.029952972924555,
@@ -2032,8 +2032,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "G3LD5FZV73EG1U5T",
-                        "name": "shape_187",
+                        "id": "DZ20FC72NJKQH6PX",
+                        "name": "shape_136",
                         "shapeType": 0,
                         "position": [
                             -34.192637588804814,
@@ -2138,8 +2138,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "PVXYSJ3HXOQ7U26B",
-                        "name": "shape_188",
+                        "id": "Q29OCIOY3URRQW30",
+                        "name": "shape_137",
                         "shapeType": 0,
                         "position": [
                             -170.46186746680286,
@@ -2244,8 +2244,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "O5B7QAT3HC9RLKT7",
-                        "name": "shape_189",
+                        "id": "JHF497P0Q6VP83E7",
+                        "name": "shape_138",
                         "shapeType": 0,
                         "position": [
                             -156.55418931961103,
@@ -2350,8 +2350,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "Y7WRS7U9XSTD9CG4",
-                        "name": "shape_190",
+                        "id": "YUCQ3DSF532PWYGE",
+                        "name": "shape_139",
                         "shapeType": 0,
                         "position": [
                             -169.87317961716937,
@@ -2456,8 +2456,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "DVLHG4Z268JN4CST",
-                        "name": "shape_191",
+                        "id": "2UOY4BFFJNNJQGSX",
+                        "name": "shape_140",
                         "shapeType": 0,
                         "position": [
                             -155.6497999875398,
@@ -2562,8 +2562,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "6NRUW174IAWKYPWQ",
-                        "name": "shape_192",
+                        "id": "TK7RFS2URRW0GIMG",
+                        "name": "shape_141",
                         "shapeType": 0,
                         "position": [
                             -284.21876594649996,
@@ -2668,8 +2668,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "1BTSBEAMTYZ3F0TY",
-                        "name": "shape_193",
+                        "id": "5JGDZO4MJMDRLFG9",
+                        "name": "shape_142",
                         "shapeType": 0,
                         "position": [
                             -280.3922949238823,
@@ -2774,8 +2774,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "5R7G7S0UWPHBL7OJ",
-                        "name": "shape_194",
+                        "id": "T27IS2FEN3WDSQTW",
+                        "name": "shape_143",
                         "shapeType": 0,
                         "position": [
                             -280.98098277351573,
@@ -2880,8 +2880,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "LF4S2DIXIJHTDQHL",
-                        "name": "shape_195",
+                        "id": "ZHRKWALJ8OKPA0H4",
+                        "name": "shape_144",
                         "shapeType": 0,
                         "position": [
                             -268.91288185602923,
@@ -2986,8 +2986,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "8ZEZSGONWKRCBJOR",
-                        "name": "shape_196",
+                        "id": "BPSE025N56GVW6ZW",
+                        "name": "shape_145",
                         "shapeType": 0,
                         "position": [
                             -269.20722578084593,
@@ -3092,8 +3092,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "5Q2LJ47TSHA1V2BO",
-                        "name": "shape_197",
+                        "id": "RFTVVWUND16ZW61F",
+                        "name": "shape_146",
                         "shapeType": 1,
                         "position": [
                             -260.108790742547,
@@ -3215,114 +3215,8 @@
                     40.90674206045256,
                     38.90462359699822
                 ],
-                "isSelected": false,
+                "isSelected": true,
                 "bodyType": 2,
-                "isBullet": false,
-                "isFixedRotation": false,
-                "linearDamping": 0,
-                "angularDamping": 0,
-                "linearVelocity": [
-                    0,
-                    0
-                ],
-                "angularVelocity": 0,
-                "isAwake": true,
-                "isActive": true,
-                "gravityScale": 1,
-                "cloneOf": null,
-                "selectedSprite": 0,
-                "sprites": []
-            },
-            {
-                "id": "XZILOVC5AUWX9YZ5",
-                "name": "body_98",
-                "userData": null,
-                "shapes": [
-                    {
-                        "id": "HA62Y2IF282T8OUS",
-                        "name": "shape_198",
-                        "shapeType": 0,
-                        "position": [
-                            494.8119195698018,
-                            203.86474086527346
-                        ],
-                        "scaleXY": [
-                            31.923651108659254,
-                            0.3977908098291168
-                        ],
-                        "rotation": 0,
-                        "vertices": [
-                            {
-                                "x": -303.27935814668155,
-                                "y": 193.91997061954504,
-                                "width": 10,
-                                "height": 10,
-                                "isSelected": false
-                            },
-                            {
-                                "x": 1292.9031972862826,
-                                "y": 193.91997061954515,
-                                "width": 10,
-                                "height": 10,
-                                "isSelected": false
-                            },
-                            {
-                                "x": 1292.9031972862826,
-                                "y": 213.80951111100174,
-                                "width": 10,
-                                "height": 10,
-                                "isSelected": false
-                            },
-                            {
-                                "x": -303.27935814668155,
-                                "y": 213.80951111100188,
-                                "width": 10,
-                                "height": 10,
-                                "isSelected": false
-                            }
-                        ],
-                        "bounds": [
-                            494.8119195698006,
-                            203.86474086527346,
-                            1596.1825554329641,
-                            19.88954049145684
-                        ],
-                        "centroid": [
-                            494.81191956980064,
-                            203.86474086527346
-                        ],
-                        "isSelected": false,
-                        "isHover": false,
-                        "inEditMode": false,
-                        "friction": 1,
-                        "restitution": 0.25,
-                        "density": 1,
-                        "isSensor": false,
-                        "maskBits": 65535,
-                        "categoryBits": 1,
-                        "groupIndex": 0,
-                        "userData": null,
-                        "width": 1596.182555432963,
-                        "height": 19.889540491455833
-                    }
-                ],
-                "position": [
-                    494.8119195698018,
-                    203.86474086527346
-                ],
-                "scaleXY": [
-                    31.923651108659254,
-                    0.3977908098291168
-                ],
-                "rotation": 0,
-                "bounds": [
-                    494.8119195698006,
-                    203.86474086527346,
-                    1596.1825554329641,
-                    19.88954049145684
-                ],
-                "isSelected": false,
-                "bodyType": 0,
                 "isBullet": false,
                 "isFixedRotation": false,
                 "linearDamping": 0,
@@ -3345,8 +3239,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "ZOGRT782F0MVFY3T",
-                        "name": "shape_199",
+                        "id": "RP1V2CQIKU0HYF7R",
+                        "name": "shape_147",
                         "shapeType": 2,
                         "position": [
                             -156.08610225768933,
@@ -3491,64 +3385,64 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "JKOQCLBL6WBLA1AG",
-                        "name": "shape_200",
+                        "id": "0337VPDQYGF73404",
+                        "name": "shape_148",
                         "shapeType": 2,
                         "position": [
-                            411.3107112883028,
-                            184.11195368488697
+                            443.9590125535938,
+                            317.10921749711605
                         ],
                         "scaleXY": [
                             0.3366552715166954,
                             0.3160846920679158
                         ],
-                        "rotation": 34.94293465024115,
+                        "rotation": 24.94293465024115,
                         "vertices": [
                             {
-                                "x": 409.07030528422507,
-                                "y": 173.44550072379897,
+                                "x": 439.90043323202,
+                                "y": 306.99385434373875,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             },
                             {
-                                "x": 413.9258174363849,
-                                "y": 184.3835914624823,
+                                "x": 446.58155876823986,
+                                "y": 316.92262006948295,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             },
                             {
-                                "x": 407.3672935420595,
-                                "y": 188.84074176499786,
+                                "x": 440.8966496164119,
+                                "y": 322.4509319661756,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             },
                             {
-                                "x": 399.88559130600055,
-                                "y": 185.76893094477307,
+                                "x": 432.99519689754266,
+                                "y": 320.7249728137696,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             },
                             {
-                                "x": 400.64483138246595,
-                                "y": 178.24096480204193,
+                                "x": 432.43568480901973,
+                                "y": 313.1795327363047,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             }
                         ],
                         "bounds": [
-                            406.9057043711927,
-                            181.1431212443984,
-                            14.040226130384326,
-                            15.395241041198886
+                            439.5086217886298,
+                            314.72239315495716,
+                            14.145873959220125,
+                            15.457077622436827
                         ],
                         "centroid": [
-                            406.1787677902272,
-                            182.1359459396188
+                            438.5619046646469,
+                            316.05438238589437
                         ],
                         "isSelected": false,
                         "isHover": false,
@@ -3564,19 +3458,19 @@
                     }
                 ],
                 "position": [
-                    411.3107112883028,
-                    184.11195368488697
+                    443.9590125535938,
+                    317.10921749711605
                 ],
                 "scaleXY": [
                     0.3366552715166954,
                     0.3160846920679158
                 ],
-                "rotation": 34.94293465024115,
+                "rotation": 24.94293465024115,
                 "bounds": [
-                    406.9057043711927,
-                    181.1431212443984,
-                    14.040226130384326,
-                    15.395241041198886
+                    439.5086217886298,
+                    314.72239315495716,
+                    14.145873959220125,
+                    15.457077622436827
                 ],
                 "isSelected": false,
                 "bodyType": 2,
@@ -3602,64 +3496,64 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "ZSLFDNH6VYPYYC60",
-                        "name": "shape_201",
+                        "id": "IWA7TONEBD4JWZ95",
+                        "name": "shape_149",
                         "shapeType": 2,
                         "position": [
-                            395.3400489288949,
-                            187.44629566966896
+                            428.25832705463796,
+                            323.2634515506757
                         ],
                         "scaleXY": [
                             0.3366552715166954,
                             0.3160846920679158
                         ],
-                        "rotation": 34.94293465024115,
+                        "rotation": 24.94293465024115,
                         "vertices": [
                             {
-                                "x": 393.09964292481726,
-                                "y": 176.77984270858101,
+                                "x": 424.19974773306427,
+                                "y": 313.1480883972984,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             },
                             {
-                                "x": 397.95515507697695,
-                                "y": 187.71793344726427,
+                                "x": 430.880873269284,
+                                "y": 323.07685412304255,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             },
                             {
-                                "x": 391.39663118265173,
-                                "y": 192.17508374977996,
+                                "x": 425.1959641174561,
+                                "y": 328.60516601973535,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             },
                             {
-                                "x": 383.91492894659285,
-                                "y": 189.10327292955506,
+                                "x": 417.294511398587,
+                                "y": 326.87920686732923,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             },
                             {
-                                "x": 384.67416902305825,
-                                "y": 181.57530678682397,
+                                "x": 416.7349993100641,
+                                "y": 319.33376678986434,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             }
                         ],
                         "bounds": [
-                            390.9350420117849,
-                            184.4774632291805,
-                            14.040226130384099,
-                            15.395241041198943
+                            423.80793628967405,
+                            320.8766272085169,
+                            14.145873959219898,
+                            15.457077622436941
                         ],
                         "centroid": [
-                            390.20810543081944,
-                            185.47028792440085
+                            422.86121916569107,
+                            322.208616439454
                         ],
                         "isSelected": false,
                         "isHover": false,
@@ -3675,19 +3569,19 @@
                     }
                 ],
                 "position": [
-                    395.3400489288949,
-                    187.44629566966896
+                    428.25832705463796,
+                    323.2634515506757
                 ],
                 "scaleXY": [
                     0.3366552715166954,
                     0.3160846920679158
                 ],
-                "rotation": 34.94293465024115,
+                "rotation": 24.94293465024115,
                 "bounds": [
-                    390.9350420117849,
-                    184.4774632291805,
-                    14.040226130384099,
-                    15.395241041198943
+                    423.80793628967405,
+                    320.8766272085169,
+                    14.145873959219898,
+                    15.457077622436941
                 ],
                 "isSelected": false,
                 "bodyType": 2,
@@ -3713,64 +3607,64 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "GCVBY6FREC2YTAJB",
-                        "name": "shape_202",
+                        "id": "RRQ5PEQ4CLFMNTL5",
+                        "name": "shape_150",
                         "shapeType": 2,
                         "position": [
-                            377.8784616717616,
-                            188.033782651887
+                            411.16403658777915,
+                            326.8741860919311
                         ],
                         "scaleXY": [
                             0.3366552715166954,
                             0.3160846920679158
                         ],
-                        "rotation": 34.94293465024115,
+                        "rotation": 24.94293465024115,
                         "vertices": [
                             {
-                                "x": 375.63805566768406,
-                                "y": 177.3673296907991,
+                                "x": 407.10545726620546,
+                                "y": 316.7588229385538,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             },
                             {
-                                "x": 380.4935678198437,
-                                "y": 188.30542042948244,
+                                "x": 413.78658280242524,
+                                "y": 326.687588664298,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             },
                             {
-                                "x": 373.93504392551847,
-                                "y": 192.762570731998,
+                                "x": 408.1016736505973,
+                                "y": 332.2159005609907,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             },
                             {
-                                "x": 366.45334168945965,
-                                "y": 189.6907599117732,
+                                "x": 400.2002209317282,
+                                "y": 330.4899414085847,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             },
                             {
-                                "x": 367.21258176592517,
-                                "y": 182.16279376904222,
+                                "x": 399.64070884320546,
+                                "y": 322.9445013311199,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             }
                         ],
                         "bounds": [
-                            373.4734547546517,
-                            185.06495021139855,
-                            14.040226130384042,
-                            15.395241041198915
+                            406.71364582281535,
+                            324.4873617497723,
+                            14.145873959219784,
+                            15.457077622436884
                         ],
                         "centroid": [
-                            372.74651817368624,
-                            186.057774906619
+                            405.7669286988323,
+                            325.81935098070943
                         ],
                         "isSelected": false,
                         "isHover": false,
@@ -3786,19 +3680,19 @@
                     }
                 ],
                 "position": [
-                    377.8784616717616,
-                    188.033782651887
+                    411.16403658777915,
+                    326.8741860919311
                 ],
                 "scaleXY": [
                     0.3366552715166954,
                     0.3160846920679158
                 ],
-                "rotation": 34.94293465024115,
+                "rotation": 24.94293465024115,
                 "bounds": [
-                    373.4734547546517,
-                    185.06495021139855,
-                    14.040226130384042,
-                    15.395241041198915
+                    406.71364582281535,
+                    324.4873617497723,
+                    14.145873959219784,
+                    15.457077622436884
                 ],
                 "isSelected": false,
                 "bodyType": 2,
@@ -3824,8 +3718,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "PAXGZFB3GXS49JQY",
-                        "name": "shape_203",
+                        "id": "HIKINEGFSL1ZEUJ0",
+                        "name": "shape_151",
                         "shapeType": 1,
                         "position": [
                             -218.32329427162804,
@@ -3971,8 +3865,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "Z5ZKQMTETFYNHIYD",
-                        "name": "shape_204",
+                        "id": "1DU9B4Y08A2RO59I",
+                        "name": "shape_152",
                         "shapeType": 1,
                         "position": [
                             -176.39161797092123,
@@ -4118,64 +4012,64 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "O6C8GJLPH3Z68AVG",
-                        "name": "shape_205",
+                        "id": "VPCSGFCS6HI0NDVY",
+                        "name": "shape_153",
                         "shapeType": 2,
                         "position": [
-                            357.4457880958864,
-                            184.11195368488697
+                            390.3607627822486,
+                            326.56003505055554
                         ],
                         "scaleXY": [
                             0.3366552715166954,
                             0.3160846920679158
                         ],
-                        "rotation": 34.94293465024115,
+                        "rotation": 24.94293465024115,
                         "vertices": [
                             {
-                                "x": 355.2053820918087,
-                                "y": 173.44550072379897,
+                                "x": 386.3021834606747,
+                                "y": 316.44467189717824,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             },
                             {
-                                "x": 360.0608942439685,
-                                "y": 184.3835914624823,
+                                "x": 392.98330899689466,
+                                "y": 326.37343762292244,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             },
                             {
-                                "x": 353.5023703496431,
-                                "y": 188.84074176499786,
+                                "x": 387.2983998450666,
+                                "y": 331.90174951961507,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             },
                             {
-                                "x": 346.0206681135842,
-                                "y": 185.76893094477307,
+                                "x": 379.3969471261974,
+                                "y": 330.1757903672091,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             },
                             {
-                                "x": 346.7799081900496,
-                                "y": 178.24096480204193,
+                                "x": 378.83743503767454,
+                                "y": 322.6303502897442,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             }
                         ],
                         "bounds": [
-                            353.04078117877634,
-                            181.1431212443984,
-                            14.040226130384326,
-                            15.395241041198886
+                            385.9103720172846,
+                            324.17321070839665,
+                            14.145873959220125,
+                            15.457077622436827
                         ],
                         "centroid": [
-                            352.31384459781077,
-                            182.1359459396188
+                            384.9636548933016,
+                            325.50519993933386
                         ],
                         "isSelected": false,
                         "isHover": false,
@@ -4191,19 +4085,19 @@
                     }
                 ],
                 "position": [
-                    357.4457880958864,
-                    184.11195368488697
+                    390.3607627822486,
+                    326.56003505055554
                 ],
                 "scaleXY": [
                     0.3366552715166954,
                     0.3160846920679158
                 ],
-                "rotation": 34.94293465024115,
+                "rotation": 24.94293465024115,
                 "bounds": [
-                    353.04078117877634,
-                    181.1431212443984,
-                    14.040226130384326,
-                    15.395241041198886
+                    385.9103720172846,
+                    324.17321070839665,
+                    14.145873959220125,
+                    15.457077622436827
                 ],
                 "isSelected": false,
                 "bodyType": 2,
@@ -4229,64 +4123,64 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "JJNYFOO2SCQI04GE",
-                        "name": "shape_206",
+                        "id": "2I1QSXIVPAX9MCSZ",
+                        "name": "shape_154",
                         "shapeType": 2,
                         "position": [
-                            341.4751257364785,
-                            187.44629566966896
+                            375.2117330793392,
+                            332.616997303208
                         ],
                         "scaleXY": [
                             0.3366552715166954,
                             0.3160846920679158
                         ],
-                        "rotation": 34.94293465024115,
+                        "rotation": 24.94293465024115,
                         "vertices": [
                             {
-                                "x": 339.2347197324009,
-                                "y": 176.77984270858101,
+                                "x": 371.1531537577655,
+                                "y": 322.5016341498307,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             },
                             {
-                                "x": 344.0902318845606,
-                                "y": 187.71793344726427,
+                                "x": 377.8342792939852,
+                                "y": 332.43039987557484,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             },
                             {
-                                "x": 337.53170799023536,
-                                "y": 192.17508374977996,
+                                "x": 372.1493701421574,
+                                "y": 337.9587117722676,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             },
                             {
-                                "x": 330.05000575417654,
-                                "y": 189.1032729295551,
+                                "x": 364.2479174232883,
+                                "y": 336.23275261986157,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             },
                             {
-                                "x": 330.8092458306419,
-                                "y": 181.57530678682397,
+                                "x": 363.6884053347653,
+                                "y": 328.6873125423966,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             }
                         ],
                         "bounds": [
-                            337.07011881936853,
-                            184.4774632291805,
-                            14.040226130384042,
-                            15.395241041198943
+                            370.76134231437527,
+                            330.2301729610491,
+                            14.145873959219898,
+                            15.457077622436884
                         ],
                         "centroid": [
-                            336.3431822384031,
-                            185.47028792440085
+                            369.81462519039235,
+                            331.5621621919863
                         ],
                         "isSelected": false,
                         "isHover": false,
@@ -4302,19 +4196,19 @@
                     }
                 ],
                 "position": [
-                    341.4751257364785,
-                    187.44629566966896
+                    375.2117330793392,
+                    332.616997303208
                 ],
                 "scaleXY": [
                     0.3366552715166954,
                     0.3160846920679158
                 ],
-                "rotation": 34.94293465024115,
+                "rotation": 24.94293465024115,
                 "bounds": [
-                    337.07011881936853,
-                    184.4774632291805,
-                    14.040226130384042,
-                    15.395241041198943
+                    370.76134231437527,
+                    330.2301729610491,
+                    14.145873959219898,
+                    15.457077622436884
                 ],
                 "isSelected": false,
                 "bodyType": 2,
@@ -4340,64 +4234,64 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "USBQ2IFKCCKNUXK9",
-                        "name": "shape_207",
+                        "id": "9M6I7KYCN5XHC8QA",
+                        "name": "shape_155",
                         "shapeType": 2,
                         "position": [
-                            324.01353847934524,
-                            188.033782651887
+                            358.1174426124804,
+                            336.2277318444634
                         ],
                         "scaleXY": [
                             0.3366552715166954,
                             0.3160846920679158
                         ],
-                        "rotation": 34.94293465024115,
+                        "rotation": 24.94293465024115,
                         "vertices": [
                             {
-                                "x": 321.77313247526763,
-                                "y": 177.36732969079915,
+                                "x": 354.0588632909067,
+                                "y": 326.11236869108615,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             },
                             {
-                                "x": 326.6286446274273,
-                                "y": 188.30542042948244,
+                                "x": 360.73998882712647,
+                                "y": 336.0411344168303,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             },
                             {
-                                "x": 320.07012073310204,
-                                "y": 192.762570731998,
+                                "x": 355.05507967529854,
+                                "y": 341.5694463135229,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             },
                             {
-                                "x": 312.5884184970432,
-                                "y": 189.6907599117732,
+                                "x": 347.15362695642943,
+                                "y": 339.84348716111697,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             },
                             {
-                                "x": 313.34765857350874,
-                                "y": 182.16279376904217,
+                                "x": 346.5941148679066,
+                                "y": 332.2980470836521,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             }
                         ],
                         "bounds": [
-                            319.60853156223527,
-                            185.06495021139858,
-                            14.040226130384099,
-                            15.395241041198858
+                            353.6670518475165,
+                            333.8409075023045,
+                            14.145873959219841,
+                            15.45707762243677
                         ],
                         "centroid": [
-                            318.8815949812698,
-                            186.057774906619
+                            352.7203347235336,
+                            335.1728967332417
                         ],
                         "isSelected": false,
                         "isHover": false,
@@ -4413,19 +4307,19 @@
                     }
                 ],
                 "position": [
-                    324.01353847934524,
-                    188.033782651887
+                    358.1174426124804,
+                    336.2277318444634
                 ],
                 "scaleXY": [
                     0.3366552715166954,
                     0.3160846920679158
                 ],
-                "rotation": 34.94293465024115,
+                "rotation": 24.94293465024115,
                 "bounds": [
-                    319.60853156223527,
-                    185.06495021139858,
-                    14.040226130384099,
-                    15.395241041198858
+                    353.6670518475165,
+                    333.8409075023045,
+                    14.145873959219841,
+                    15.45707762243677
                 ],
                 "isSelected": false,
                 "bodyType": 2,
@@ -4451,8 +4345,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "SWSL4IB65PMUBJ4V",
-                        "name": "shape_208",
+                        "id": "0UXQRIO7RHE0FEPE",
+                        "name": "shape_156",
                         "shapeType": 0,
                         "position": [
                             -85.86381239321538,
@@ -4557,8 +4451,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "ZUP50OT7PLJ2XFW1",
-                        "name": "shape_209",
+                        "id": "OGQSCZKDYE9KUH6X",
+                        "name": "shape_157",
                         "shapeType": 2,
                         "position": [
                             -202.4715621168134,
@@ -4675,12 +4569,12 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "AC2M1739CP5WWNOX",
-                        "name": "shape_210",
+                        "id": "49ZHW54D0FGRYXVJ",
+                        "name": "shape_158",
                         "shapeType": 0,
                         "position": [
-                            1216.5835960706072,
-                            143.63006702470182
+                            3061.36981781903,
+                            -2.9754605314641225
                         ],
                         "scaleXY": [
                             1.0484199608093352,
@@ -4689,43 +4583,43 @@
                         "rotation": 0,
                         "vertices": [
                             {
-                                "x": 1190.3730970503739,
-                                "y": 110.97695314625241,
+                                "x": 3035.1593187987964,
+                                "y": -35.62857440991351,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             },
                             {
-                                "x": 1242.7940950908405,
-                                "y": 110.97695314625241,
+                                "x": 3087.580316839263,
+                                "y": -35.62857440991351,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             },
                             {
-                                "x": 1242.7940950908405,
-                                "y": 176.28318090315122,
+                                "x": 3087.580316839263,
+                                "y": 29.677653346985295,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             },
                             {
-                                "x": 1190.3730970503739,
-                                "y": 176.28318090315122,
+                                "x": 3035.1593187987964,
+                                "y": 29.677653346985295,
                                 "width": 10,
                                 "height": 10,
                                 "isSelected": false
                             }
                         ],
                         "bounds": [
-                            1216.5835960706072,
-                            143.63006702470182,
+                            3061.36981781903,
+                            -2.9754605314641083,
                             52.42099804046666,
                             65.3062277568988
                         ],
                         "centroid": [
-                            1216.5835960706072,
-                            143.63006702470182
+                            3061.36981781903,
+                            -2.9754605314641083
                         ],
                         "isSelected": false,
                         "isHover": false,
@@ -4743,8 +4637,8 @@
                     }
                 ],
                 "position": [
-                    1216.5835960706072,
-                    143.63006702470182
+                    3061.36981781903,
+                    -2.9754605314641225
                 ],
                 "scaleXY": [
                     1.0484199608093352,
@@ -4752,8 +4646,8 @@
                 ],
                 "rotation": 0,
                 "bounds": [
-                    1216.5835960706072,
-                    143.63006702470182,
+                    3061.36981781903,
+                    -2.9754605314641083,
                     52.42099804046666,
                     65.3062277568988
                 ],
@@ -4781,8 +4675,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "7D3I1R4DENT5KMBR",
-                        "name": "shape_211",
+                        "id": "TTM97RIZUJRG3Z8I",
+                        "name": "shape_159",
                         "shapeType": 1,
                         "position": [
                             -92.99624086989867,
@@ -4928,8 +4822,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "EBQK7XQD1RJNA41V",
-                        "name": "shape_212",
+                        "id": "SGX4GX7L27F1SVH5",
+                        "name": "shape_160",
                         "shapeType": 1,
                         "position": [
                             -134.76259588739293,
@@ -5075,8 +4969,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "SZD9KAAWDX84T9UC",
-                        "name": "shape_213",
+                        "id": "J9EC0S8EV0W8ATLQ",
+                        "name": "shape_161",
                         "shapeType": 0,
                         "position": [
                             -87.68583989632745,
@@ -5181,8 +5075,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "WJQH5Y5DVF7YYPYI",
-                        "name": "shape_214",
+                        "id": "DK1U1VXULTUC3HXO",
+                        "name": "shape_162",
                         "shapeType": 0,
                         "position": [
                             -129.2411487490799,
@@ -5287,8 +5181,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "BW68HL9IFHOU2BY6",
-                        "name": "shape_215",
+                        "id": "IY634R6GK5GV5CR7",
+                        "name": "shape_163",
                         "shapeType": 0,
                         "position": [
                             -115.4240688314796,
@@ -5393,8 +5287,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "BW22JKG1VXFFI5NB",
-                        "name": "shape_216",
+                        "id": "HPGAYCR88EI2CFVF",
+                        "name": "shape_164",
                         "shapeType": 0,
                         "position": [
                             -101.65591423285684,
@@ -5499,8 +5393,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "NWRL0UXIPCHFCJ6N",
-                        "name": "shape_217",
+                        "id": "EEZWZFCJ4KC79DUQ",
+                        "name": "shape_165",
                         "shapeType": 0,
                         "position": [
                             -73.73714174592722,
@@ -5605,8 +5499,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "2V2GFB8NJQO9BP42",
-                        "name": "shape_218",
+                        "id": "2YPYP9ELJGWDYWN4",
+                        "name": "shape_166",
                         "shapeType": 0,
                         "position": [
                             -58.70846231758579,
@@ -5711,8 +5605,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "53SYCA4E1DOH941E",
-                        "name": "shape_219",
+                        "id": "I0U17SVX4UGHVTBI",
+                        "name": "shape_167",
                         "shapeType": 1,
                         "position": [
                             -51.36232633153946,
@@ -5858,8 +5752,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "LUX80XC5T68U83SA",
-                        "name": "shape_220",
+                        "id": "7E515UOOUE3GA1DP",
+                        "name": "shape_168",
                         "shapeType": 0,
                         "position": [
                             -85.79724506475796,
@@ -5964,8 +5858,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "AD8J8V8Q6HH9RW57",
-                        "name": "shape_221",
+                        "id": "1HVTMZCU42DN377H",
+                        "name": "shape_169",
                         "shapeType": 0,
                         "position": [
                             -127.95952062551943,
@@ -6070,8 +5964,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "FJJ17768G51WQYIP",
-                        "name": "shape_222",
+                        "id": "66N1LP20IN9EU9R1",
+                        "name": "shape_170",
                         "shapeType": 0,
                         "position": [
                             -113.83895735391458,
@@ -6176,8 +6070,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "J3NE1IXTFRRIU25Z",
-                        "name": "shape_223",
+                        "id": "NMKO1WJ9VWSBO5AM",
+                        "name": "shape_171",
                         "shapeType": 0,
                         "position": [
                             -99.61557772428509,
@@ -6282,8 +6176,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "0DYJO16V5CS52NLE",
-                        "name": "shape_224",
+                        "id": "6SMH90SEN66O96OU",
+                        "name": "shape_172",
                         "shapeType": 0,
                         "position": [
                             -72.1520302683622,
@@ -6388,8 +6282,8 @@
                 "userData": null,
                 "shapes": [
                     {
-                        "id": "METGN98C397SSFR4",
-                        "name": "shape_225",
+                        "id": "524L0HU2BXZ646XL",
+                        "name": "shape_173",
                         "shapeType": 0,
                         "position": [
                             -59.47342410771613,
@@ -6472,6 +6366,215 @@
                 ],
                 "isSelected": false,
                 "bodyType": 2,
+                "isBullet": false,
+                "isFixedRotation": false,
+                "linearDamping": 0,
+                "angularDamping": 0,
+                "linearVelocity": [
+                    0,
+                    0
+                ],
+                "angularVelocity": 0,
+                "isAwake": true,
+                "isActive": true,
+                "gravityScale": 1,
+                "cloneOf": null,
+                "selectedSprite": 0,
+                "sprites": []
+            },
+            {
+                "id": "JHBVJ080IH8VEALP",
+                "name": "body_58",
+                "userData": null,
+                "shapes": [
+                    {
+                        "id": "JVZAS1HOYTRFI2RM",
+                        "name": "shape_174",
+                        "shapeType": 5,
+                        "position": [
+                            75.759487026558,
+                            313.3673737855254
+                        ],
+                        "scaleXY": [
+                            1,
+                            1
+                        ],
+                        "rotation": 0,
+                        "vertices": [
+                            {
+                                "x": -585.1968802268642,
+                                "y": 327.49226758198023,
+                                "width": 10,
+                                "height": 10,
+                                "isSelected": false
+                            },
+                            {
+                                "x": -480.12408932575414,
+                                "y": 306.4485533576476,
+                                "width": 10,
+                                "height": 10,
+                                "isSelected": false
+                            },
+                            {
+                                "x": -392.55172086553773,
+                                "y": 328.34164547270166,
+                                "width": 10,
+                                "height": 10,
+                                "isSelected": false
+                            },
+                            {
+                                "x": -254.9379989994834,
+                                "y": 290.81063041832306,
+                                "width": 10,
+                                "height": 10,
+                                "isSelected": false
+                            },
+                            {
+                                "x": -101.68635419410445,
+                                "y": 337.7243992362962,
+                                "width": 10,
+                                "height": 10,
+                                "isSelected": false
+                            },
+                            {
+                                "x": 207.9445200045178,
+                                "y": 253.27961536394443,
+                                "width": 10,
+                                "height": 10,
+                                "isSelected": false
+                            },
+                            {
+                                "x": 251.7307042346261,
+                                "y": 300.1933841819176,
+                                "width": 10,
+                                "height": 10,
+                                "isSelected": false
+                            },
+                            {
+                                "x": 339.30307269484274,
+                                "y": 343.9795684120259,
+                                "width": 10,
+                                "height": 10,
+                                "isSelected": false
+                            },
+                            {
+                                "x": 419.4762988349859,
+                                "y": 338.74970173763217,
+                                "width": 10,
+                                "height": 10,
+                                "isSelected": false
+                            },
+                            {
+                                "x": 539.4684863181952,
+                                "y": 309.5761379455123,
+                                "width": 10,
+                                "height": 10,
+                                "isSelected": false
+                            },
+                            {
+                                "x": 777.1649149959256,
+                                "y": 168.83483149159306,
+                                "width": 10,
+                                "height": 10,
+                                "isSelected": false
+                            },
+                            {
+                                "x": 870.9924526318721,
+                                "y": 156.32449314013365,
+                                "width": 10,
+                                "height": 10,
+                                "isSelected": false
+                            },
+                            {
+                                "x": 1008.6061744979261,
+                                "y": 225.13135407316057,
+                                "width": 10,
+                                "height": 10,
+                                "isSelected": false
+                            },
+                            {
+                                "x": 1071.9829269068377,
+                                "y": 287.92180016366365,
+                                "width": 10,
+                                "height": 10,
+                                "isSelected": false
+                            },
+                            {
+                                "x": 1240.047433999929,
+                                "y": 353.3623221756205,
+                                "width": 10,
+                                "height": 10,
+                                "isSelected": false
+                            },
+                            {
+                                "x": 2110.6686266033585,
+                                "y": 350.9416229679942,
+                                "width": 10,
+                                "height": 10,
+                                "isSelected": false
+                            },
+                            {
+                                "x": 2566.8518926378188,
+                                "y": 234.5385420913478,
+                                "width": 10,
+                                "height": 10,
+                                "isSelected": false
+                            },
+                            {
+                                "x": 2805.0858749165877,
+                                "y": 39.06450534979342,
+                                "width": 10,
+                                "height": 10,
+                                "isSelected": false
+                            },
+                            {
+                                "x": 3113.0307855483193,
+                                "y": 43.291631394329386,
+                                "width": 10,
+                                "height": 10,
+                                "isSelected": false
+                            }
+                        ],
+                        "bounds": [
+                            1263.9169526607275,
+                            196.21341376270695,
+                            3698.2276657751836,
+                            314.29781682582706
+                        ],
+                        "centroid": [
+                            816.2030063796841,
+                            262.9477371871378
+                        ],
+                        "isSelected": false,
+                        "isHover": false,
+                        "inEditMode": false,
+                        "friction": 1,
+                        "restitution": 0.25,
+                        "density": 1,
+                        "isSensor": false,
+                        "maskBits": 65535,
+                        "categoryBits": 1,
+                        "groupIndex": 0,
+                        "userData": null
+                    }
+                ],
+                "position": [
+                    88.26982537801739,
+                    313.3673737855254
+                ],
+                "scaleXY": [
+                    1,
+                    1
+                ],
+                "rotation": 0,
+                "bounds": [
+                    1263.9169526607275,
+                    196.21341376270695,
+                    3698.2276657751836,
+                    314.29781682582706
+                ],
+                "isSelected": false,
+                "bodyType": 0,
                 "isBullet": false,
                 "isFixedRotation": false,
                 "linearDamping": 0,
@@ -7377,8 +7480,8 @@
             {
                 "id": "0BQ90XXUSW3R306D",
                 "name": "joint_134",
-                "bodyIndexA": 31,
-                "bodyIndexB": 41,
+                "bodyIndexA": 30,
+                "bodyIndexB": 40,
                 "localAnchorA": [
                     -202.4715621168134,
                     29.76949424346768
@@ -7405,8 +7508,8 @@
             {
                 "id": "E4U7UWVDIJOP8NBW",
                 "name": "joint_135",
-                "bodyIndexA": 40,
-                "bodyIndexB": 41,
+                "bodyIndexA": 39,
+                "bodyIndexB": 40,
                 "localAnchorA": [
                     -202.4715621168134,
                     29.76949424346768
@@ -7433,8 +7536,8 @@
             {
                 "id": "M818Z8DIJ3SS7SRR",
                 "name": "joint_74",
-                "bodyIndexA": 46,
-                "bodyIndexB": 47,
+                "bodyIndexA": 45,
+                "bodyIndexB": 46,
                 "localAnchorA": [
                     -121.60468399588237,
                     182.62760944391692
@@ -7467,8 +7570,8 @@
             {
                 "id": "FUE6P72YU9V6278P",
                 "name": "joint_75",
-                "bodyIndexA": 45,
-                "bodyIndexB": 48,
+                "bodyIndexA": 44,
+                "bodyIndexB": 47,
                 "localAnchorA": [
                     -94.59066616676388,
                     182.91213252095739
@@ -7501,8 +7604,8 @@
             {
                 "id": "Z66PCCWEVDJQ3PY5",
                 "name": "joint_76",
-                "bodyIndexA": 47,
-                "bodyIndexB": 48,
+                "bodyIndexA": 46,
+                "bodyIndexB": 47,
                 "localAnchorA": [
                     -108.1522308796974,
                     182.59643103851963
@@ -7535,8 +7638,8 @@
             {
                 "id": "M818Z8DIJ3SS7SRR",
                 "name": "joint_77",
-                "bodyIndexA": 53,
-                "bodyIndexB": 54,
+                "bodyIndexA": 52,
+                "bodyIndexB": 53,
                 "localAnchorA": [
                     -120.62653922632634,
                     131.6871322772057
@@ -7569,8 +7672,8 @@
             {
                 "id": "FUE6P72YU9V6278P",
                 "name": "joint_78",
-                "bodyIndexA": 52,
-                "bodyIndexB": 55,
+                "bodyIndexA": 51,
+                "bodyIndexB": 54,
                 "localAnchorA": [
                     -92.82799585187333,
                     132.1233970312484
@@ -7603,8 +7706,8 @@
             {
                 "id": "Z66PCCWEVDJQ3PY5",
                 "name": "joint_79",
-                "bodyIndexA": 54,
-                "bodyIndexB": 55,
+                "bodyIndexA": 53,
+                "bodyIndexB": 54,
                 "localAnchorA": [
                     -106.71886107913463,
                     131.80769554881064
@@ -7638,7 +7741,7 @@
                 "id": "5NF2KMGSX82JQE9L",
                 "name": "joint_80",
                 "bodyIndexA": 0,
-                "bodyIndexB": 46,
+                "bodyIndexB": 45,
                 "localAnchorA": [
                     -135.8271590356357,
                     182.507046172312
@@ -7671,8 +7774,8 @@
             {
                 "id": "P86VFQ4TOW1010AN",
                 "name": "joint_81",
-                "bodyIndexA": 45,
-                "bodyIndexB": 49,
+                "bodyIndexA": 44,
+                "bodyIndexB": 48,
                 "localAnchorA": [
                     -80.8171028039747,
                     182.69935243570825
@@ -7705,8 +7808,8 @@
             {
                 "id": "IFZWQRBIF7PXZRXC",
                 "name": "joint_82",
-                "bodyIndexA": 49,
-                "bodyIndexB": 57,
+                "bodyIndexA": 48,
+                "bodyIndexB": 56,
                 "localAnchorA": [
                     -66.71803542292753,
                     182.54761075870599
@@ -7740,7 +7843,7 @@
                 "id": "Z3ZEMO6F6DHUUSYC",
                 "name": "joint_83",
                 "bodyIndexA": 1,
-                "bodyIndexB": 57,
+                "bodyIndexB": 56,
                 "localAnchorA": [
                     -52.228812792504705,
                     182.54761075870596
@@ -7774,7 +7877,7 @@
                 "id": "L9CNJ5D21UCDGCTC",
                 "name": "joint_84",
                 "bodyIndexA": 8,
-                "bodyIndexB": 53,
+                "bodyIndexB": 52,
                 "localAnchorA": [
                     -135.03948168356695,
                     131.73121926276465
@@ -7807,8 +7910,8 @@
             {
                 "id": "RO0W6NO09QBM6XGH",
                 "name": "joint_85",
-                "bodyIndexA": 52,
-                "bodyIndexB": 56,
+                "bodyIndexA": 51,
+                "bodyIndexB": 55,
                 "localAnchorA": [
                     -78.57339029775409,
                     132.0752672031632
@@ -7841,8 +7944,8 @@
             {
                 "id": "9TOYASDTL8BM9A2N",
                 "name": "joint_86",
-                "bodyIndexA": 50,
-                "bodyIndexB": 56,
+                "bodyIndexA": 49,
+                "bodyIndexB": 55,
                 "localAnchorA": [
                     -65.07206921031471,
                     131.74596668883535
@@ -7876,7 +7979,7 @@
                 "id": "LMTARFEV2J3MJ6RR",
                 "name": "joint_87",
                 "bodyIndexA": 9,
-                "bodyIndexB": 50,
+                "bodyIndexB": 49,
                 "localAnchorA": [
                     -51.634648797761926,
                     132.83468310123564
@@ -7922,13 +8025,6 @@
                 "userData": null,
                 "collideConnected": false,
                 "jointType": 2,
-                "enableLimit": false,
-                "enableMotor": false,
-                "lowerAngle": 0,
-                "maxMotorTorque": 100,
-                "motorSpeed": 100,
-                "referenceAngle": 0,
-                "upperAngle": 0,
                 "position": [
                     -28.976254975695603,
                     146.74415313083242
@@ -7938,12 +8034,19 @@
                     1
                 ],
                 "isSelected": false,
-                "inEditMode": false
+                "inEditMode": false,
+                "enableLimit": false,
+                "enableMotor": false,
+                "lowerAngle": 0,
+                "upperAngle": 0,
+                "maxMotorTorque": 100,
+                "motorSpeed": 100,
+                "referenceAngle": 0
             },
             {
                 "id": "Z0QG4ALBUC7K2WVN",
                 "name": "joint_191",
-                "bodyIndexA": 31,
+                "bodyIndexA": 30,
                 "bodyIndexB": 29,
                 "localAnchorA": [
                     -260.108790742547,
@@ -7956,15 +8059,6 @@
                 "userData": null,
                 "collideConnected": false,
                 "jointType": 3,
-                "localAxisA": [
-                    0,
-                    1
-                ],
-                "enableMotor": true,
-                "maxMotorTorque": 100,
-                "motorSpeed": 30,
-                "frequencyHZ": 60,
-                "dampingRatio": 1,
                 "position": [
                     -260.108790742547,
                     157.05467619587742
@@ -7973,14 +8067,23 @@
                     1,
                     1
                 ],
-                "isSelected": false,
-                "inEditMode": false
+                "isSelected": true,
+                "inEditMode": false,
+                "localAxisA": [
+                    0,
+                    1
+                ],
+                "enableMotor": true,
+                "maxMotorTorque": 80,
+                "motorSpeed": 70,
+                "frequencyHZ": 60,
+                "dampingRatio": 1
             },
             {
                 "id": "POGTZ1LATCMKLW17",
                 "name": "joint_192",
-                "bodyIndexA": 31,
-                "bodyIndexB": 35,
+                "bodyIndexA": 30,
+                "bodyIndexB": 34,
                 "localAnchorA": [
                     -218.32329427162804,
                     157.79089602342364
@@ -7992,15 +8095,6 @@
                 "userData": null,
                 "collideConnected": false,
                 "jointType": 3,
-                "localAxisA": [
-                    0,
-                    1
-                ],
-                "enableMotor": false,
-                "maxMotorTorque": 100,
-                "motorSpeed": 100,
-                "frequencyHZ": 60,
-                "dampingRatio": 1,
                 "position": [
                     -218.32329427162804,
                     157.79089602342364
@@ -8010,13 +8104,22 @@
                     1
                 ],
                 "isSelected": false,
-                "inEditMode": false
+                "inEditMode": false,
+                "localAxisA": [
+                    0,
+                    1
+                ],
+                "enableMotor": false,
+                "maxMotorTorque": 100,
+                "motorSpeed": 100,
+                "frequencyHZ": 60,
+                "dampingRatio": 1
             },
             {
                 "id": "VLI0J7BR8P65PLZ7",
                 "name": "joint_193",
-                "bodyIndexA": 31,
-                "bodyIndexB": 36,
+                "bodyIndexA": 30,
+                "bodyIndexB": 35,
                 "localAnchorA": [
                     -176.39161797092123,
                     157.79089602342364
@@ -8028,15 +8131,6 @@
                 "userData": null,
                 "collideConnected": false,
                 "jointType": 3,
-                "localAxisA": [
-                    0,
-                    1
-                ],
-                "enableMotor": false,
-                "maxMotorTorque": 100,
-                "motorSpeed": 100,
-                "frequencyHZ": 60,
-                "dampingRatio": 1,
                 "position": [
                     -176.39161797092123,
                     157.79089602342364
@@ -8046,13 +8140,22 @@
                     1
                 ],
                 "isSelected": false,
-                "inEditMode": false
+                "inEditMode": false,
+                "localAxisA": [
+                    0,
+                    1
+                ],
+                "enableMotor": false,
+                "maxMotorTorque": 100,
+                "motorSpeed": 100,
+                "frequencyHZ": 60,
+                "dampingRatio": 1
             },
             {
                 "id": "2YP9A2X6MP5YYWTA",
                 "name": "joint_194",
-                "bodyIndexA": 31,
-                "bodyIndexB": 44,
+                "bodyIndexA": 30,
+                "bodyIndexB": 43,
                 "localAnchorA": [
                     -134.76259588739293,
                     158.32972964821994
@@ -8064,15 +8167,6 @@
                 "userData": null,
                 "collideConnected": false,
                 "jointType": 3,
-                "localAxisA": [
-                    0,
-                    1
-                ],
-                "enableMotor": false,
-                "maxMotorTorque": 100,
-                "motorSpeed": 100,
-                "frequencyHZ": 60,
-                "dampingRatio": 1,
                 "position": [
                     -134.76259588739293,
                     158.32972964821994
@@ -8082,13 +8176,22 @@
                     1
                 ],
                 "isSelected": false,
-                "inEditMode": false
+                "inEditMode": false,
+                "localAxisA": [
+                    0,
+                    1
+                ],
+                "enableMotor": false,
+                "maxMotorTorque": 100,
+                "motorSpeed": 100,
+                "frequencyHZ": 60,
+                "dampingRatio": 1
             },
             {
                 "id": "P3OMWLKDWJ9QCZEX",
                 "name": "joint_195",
-                "bodyIndexA": 31,
-                "bodyIndexB": 43,
+                "bodyIndexA": 30,
+                "bodyIndexB": 42,
                 "localAnchorA": [
                     -92.99624086989867,
                     158.85182348141115
@@ -8100,15 +8203,6 @@
                 "userData": null,
                 "collideConnected": false,
                 "jointType": 3,
-                "localAxisA": [
-                    0,
-                    1
-                ],
-                "enableMotor": false,
-                "maxMotorTorque": 100,
-                "motorSpeed": 100,
-                "frequencyHZ": 60,
-                "dampingRatio": 1,
                 "position": [
                     -92.99624086989867,
                     158.85182348141115
@@ -8118,13 +8212,22 @@
                     1
                 ],
                 "isSelected": false,
-                "inEditMode": false
+                "inEditMode": false,
+                "localAxisA": [
+                    0,
+                    1
+                ],
+                "enableMotor": false,
+                "maxMotorTorque": 100,
+                "motorSpeed": 100,
+                "frequencyHZ": 60,
+                "dampingRatio": 1
             },
             {
                 "id": "NU2M8F5JE7Z3M0JO",
                 "name": "joint_196",
-                "bodyIndexA": 31,
-                "bodyIndexB": 51,
+                "bodyIndexA": 30,
+                "bodyIndexB": 50,
                 "localAnchorA": [
                     -51.36232633153946,
                     158.47922465620212
@@ -8136,15 +8239,6 @@
                 "userData": null,
                 "collideConnected": false,
                 "jointType": 3,
-                "localAxisA": [
-                    0,
-                    1
-                ],
-                "enableMotor": false,
-                "maxMotorTorque": 100,
-                "motorSpeed": 100,
-                "frequencyHZ": 60,
-                "dampingRatio": 1,
                 "position": [
                     -51.36232633153946,
                     158.47922465620212
@@ -8154,7 +8248,16 @@
                     1
                 ],
                 "isSelected": false,
-                "inEditMode": false
+                "inEditMode": false,
+                "localAxisA": [
+                    0,
+                    1
+                ],
+                "enableMotor": false,
+                "maxMotorTorque": 100,
+                "motorSpeed": 100,
+                "frequencyHZ": 60,
+                "dampingRatio": 1
             }
         ],
         "particles": [],
